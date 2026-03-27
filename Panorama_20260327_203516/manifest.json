@@ -1,0 +1,36 @@
+{
+	"version": "1.0",
+	"scene_name": "Panorama",
+	"captured_at": "2026-03-27T20:35:20.930Z",
+	"plugin_version": "1.0.0",
+	"ue_engine_version": "5.7.2-49658320+++UE5+Release-5.7",
+	"position":
+	{
+		"longitude": -115.27373498208168,
+		"latitude": 36.070328254235292,
+		"height_msl": 756.81931570396989
+	},
+	"orientation":
+	{
+		"heading": -3.9115661820687819e-09,
+		"pitch": -0.00013996058902421277,
+		"roll": -6.5198425431844936e-06
+	},
+	"capture":
+	{
+		"resolution": 4096,
+		"format": "PNG",
+		"warmup_frames_per_face": 8,
+		"faces_captured": 6
+	},
+	"faces":
+	{
+		"positiveX": "faces/positiveX.png",
+		"negativeX": "faces/negativeX.png",
+		"negativeZ": "faces/negativeZ.png",
+		"positiveZ": "faces/positiveZ.png",
+		"positiveY": "faces/positiveY.png",
+		"negativeY": "faces/negativeY.png"
+	},
+	"hotspots": []
+}
